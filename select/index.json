@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sweet Escape（feat. ひかり）",
+  "base_artist": "Tokimeki Records",
+  "createdAt": "2026-02-15T01:18:53.710283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/01_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/02_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Escape (feat. Sirena)",
+      "artist": "Alesso, Sirena",
+      "has_synced": true,
+      "path": "select/03_Sweet_Escape_(feat._Sirena)_Alesso,_Sirena.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Sweet Escape [feat. Akon]",
+      "artist": "Gwen Stefani feat. AKON",
+      "has_synced": true,
+      "path": "select/04_The_Sweet_Escape_[feat._Akon]_Gwen_Stefani_feat._AKON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani Feat. Akon",
+      "has_synced": true,
+      "path": "select/05_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani_Feat._Akon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Escape (feat. Sirena)",
+      "artist": "Alesso",
+      "has_synced": true,
+      "path": "select/06_Sweet_Escape_(feat._Sirena)_Alesso.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Escape (feat. Sirena)",
+      "artist": "Alesso",
+      "has_synced": true,
+      "path": "select/07_Sweet_Escape_(feat._Sirena)_Alesso.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/08_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Escape (feat. Wonai)",
+      "artist": "Taku",
+      "has_synced": false,
+      "path": "select/09_Sweet_Escape_(feat._Wonai)_Taku.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/10_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Escape (feat",
+      "artist": "Alesso",
+      "has_synced": true,
+      "path": "select/11_Sweet_Escape_(feat_Alesso.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Escape (feat. ひかり)",
+      "artist": "Tokimeki Records",
+      "has_synced": true,
+      "path": "select/12_Sweet_Escape_(feat._ひかり)_Tokimeki_Records.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet escape (feat. Sirena)",
+      "artist": "Alesso",
+      "has_synced": true,
+      "path": "select/13_Sweet_escape_(feat._Sirena)_Alesso.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_The_Sweet_Escape_(feat._Akon)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon) (Album Version Instrumental)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/15_The_Sweet_Escape_(feat._Akon)_(Album_Version_Instrumental)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon) (Konvict Instrumental)",
+      "artist": "Gwen Stefani",
+      "has_synced": false,
+      "path": "select/16_The_Sweet_Escape_(feat._Akon)_(Konvict_Instrumental)_Gwen_Stefani.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Escape (feat. ひかり) (Jafunk Remix)",
+      "artist": "Tokimeki Records",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Escape_(feat._ひかり)_(Jafunk_Remix)_Tokimeki_Records.txt"
+    }
+  ]
+}
